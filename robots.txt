@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hs9cghkmpw-alt.github.io/LP/sitemap.xml
